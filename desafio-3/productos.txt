@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Escuadra",
+        "price": 12.34,
+        "thumbnail": "foto",
+        "id": 1
+    },
+    {
+        "title": "Calculadora",
+        "price": 23.54,
+        "thumbnail": "foto2",
+        "id": 2
+    },
+    {
+        "title": "Globo terraqueo",
+        "price": 35.46,
+        "thumbnail": "foto3",
+        "id": 3
+    },
+    {
+        "title": "Lapiz",
+        "price": 14.93,
+        "thumbnail": "foto",
+        "id": 4
+    },
+    {
+        "title": "Crayon",
+        "price": 23.18,
+        "thumbnail": "foto",
+        "id": 5
+    },
+    {
+        "title": "Regla",
+        "price": 11.99,
+        "thumbnail": "foto",
+        "id": 6
+    }
+]
